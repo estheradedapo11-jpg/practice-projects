@@ -1,13 +1,23 @@
-## Data Analytics Projects
-Building a portfolio of data analytics projects using Python, pandas, SQL, and matplotlib.
+# Practice Projects
 
-- **imdb-ratings-analysis** — exploratory analysis of what factors correlate with IMDb ratings (genre, title type, release decade)
-- **spotify-tracks-analysis** — cleaning, SQL aggregation, and genre popularity trends across ~114,000 Spotify tracks"
+A collection of coursework and practice projects from when I was learning web development and Python. This repo is a record of how I learned. My data analytics work lives in separate repos.
 
-## Other Projects
+## What's in here
 
-**Personal Portfolio Website**
-A personal portfolio website built with HTML, CSS, and JavaScript for a class project.
+| Folder | What it is |
+|---|---|
+| `htmlpractice/` | HTML, CSS, and JavaScript exercises, including a cheat sheet I made while learning |
+| `countdowntimer/` | A countdown timer built with HTML, CSS, and JavaScript (course assignment) |
+| `myportfolio/` | An early personal portfolio website built with HTML CSS and JavaScript ( crouse assginment)
+| `learning-log/` | Daily Python practice scripts |
 
-**Countdown Timer**
-A countdown timer built with HTML, CSS, and JavaScript.
+## Notes
+
+- Some of these are course assignments, so the code reflects what I was learning at the time, not my current skill level.
+- **Tools:** HTML, CSS, JavaScript, Python
+
+
+## Data analytics projects
+
+- [IMDb ratings analysis](https://github.com/estheradedapo11-jpg/imdb-ratings-analysis)
+- [Spotify analysis](https://github.com/estheradedapo11-jpg/spotifyanalysis)
